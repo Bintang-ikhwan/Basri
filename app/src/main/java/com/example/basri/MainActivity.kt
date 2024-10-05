@@ -1,3 +1,5 @@
+import com.example.basri.R
+
 /package com.example.basri
 
 import android.os.Bundle
