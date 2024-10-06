@@ -20,5 +20,6 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/pilihantujuan_damri"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="215dp" />
+        tools:layout_editor_absoluteY="215dp"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
