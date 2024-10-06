@@ -16,4 +16,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/onboarding" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="176dp"
+        android:layout_height="213dp"
+        app:srcCompat="@drawable/logo_basri"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="297dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
