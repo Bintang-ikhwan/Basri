@@ -10,11 +10,14 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="411dp"
-        android:layout_height="wrap_content"
+        android:layout_width="751dp"
+        android:layout_height="302dp"
         android:src="@drawable/rectangle_4250"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="-3dp" />
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="-3dp"
+        tools:ignore="MissingConstraints" />
 
 
     <ImageView
@@ -23,7 +26,8 @@
         android:layout_height="wrap_content"
         android:src="@drawable/gambar_1"
         tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="16dp" />
+        tools:layout_editor_absoluteY="73dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -31,7 +35,17 @@
         android:layout_height="wrap_content"
         android:src="@drawable/frame_12021"
         tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="294dp" />
+        tools:layout_editor_absoluteY="402dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="420dp"
+        android:layout_height="76dp"
+        android:src="@drawable/nav"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="818dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView5"
