@@ -38,5 +38,6 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/logo_di_elips"
         tools:layout_editor_absoluteX="112dp"
-        tools:layout_editor_absoluteY="67dp" />
+        tools:layout_editor_absoluteY="67dp"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
