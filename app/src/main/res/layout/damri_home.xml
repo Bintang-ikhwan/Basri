@@ -7,11 +7,11 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="429dp"
+        android:layout_height="398dp"
         app:srcCompat="@drawable/bg_damrihome"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteX="-6dp"
         tools:layout_editor_absoluteY="-1dp" />
 
     <ImageView
@@ -21,7 +21,7 @@
         app:srcCompat="@drawable/pilihantujuan_damri"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="206dp" />
+        tools:layout_editor_absoluteY="228dp" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -29,6 +29,6 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/keterangan_damrihome"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="551dp" />
+        tools:layout_editor_absoluteY="593dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
