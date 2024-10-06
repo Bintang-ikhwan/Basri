@@ -10,17 +10,25 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/bg_damrihome"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="9dp"
-        tools:layout_editor_absoluteY="3dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="-1dp" />
 
     <ImageView
         android:id="@+id/imageView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/pilihantujuan_damri"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="215dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="206dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/keterangan_damrihome"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="551dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
